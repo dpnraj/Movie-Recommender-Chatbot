@@ -18,7 +18,7 @@ Chatbot Interaction:
 
 ![image](https://user-images.githubusercontent.com/129698277/230423141-441bcb48-b5b6-48c5-8fba-d3171e539666.png)
 
-Try our chatbot here: http://t.me/MovieRouletteBot
+Try our chatbot here: Click this link http://t.me/MovieRouletteBot and select START in Telegram App.
 
 ## Processes involved in movie recommendation:-
 
