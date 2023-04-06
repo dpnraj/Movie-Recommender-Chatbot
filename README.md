@@ -14,6 +14,10 @@ A hybrid movie recommender chatbot based on Python and Dialogflow which recommen
 4. Movies dataset (Plot summaries Web scraped from IMdb and other values from MovieLens Small dataset)
 5. Dialogflow ES
 
+Chatbot Interaction:
+
+![image](https://user-images.githubusercontent.com/129698277/230423141-441bcb48-b5b6-48c5-8fba-d3171e539666.png)
+
 Try our chatbot here: https://bot.dialogflow.com/14359829-8586-4701-9d1e-4a6db5662003
 
 ## Processes involved in movie recommendation:-
