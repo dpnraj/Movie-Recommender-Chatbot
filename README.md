@@ -1,6 +1,6 @@
 # Movie-Roulette
 
-A hybrid movie recommender chatbot based on Python and Dialogflow which recommends 10 movies after getting the below items as input in the chatbot:
+A hybrid movie recommender chatbot for Telegram based on Python and Dialogflow which recommends 10 movies after getting the below items as input in the chatbot:
 
   1. Get 5 movie names that seem interesting to our user.
   2. Ask them to rate the 5 movies on a scale of 0.5 - 5.0 (eg: 0.5, 1.0, 1.5, etc)
@@ -12,13 +12,13 @@ A hybrid movie recommender chatbot based on Python and Dialogflow which recommen
 2. Ngrok (Free version and you should sign up with ngrok to get a tunnel service) Refer: https://ngrok.com/download
 3. Python (Dependencies used in both app.py and recommender.py should be resolved using pip)
 4. Movies dataset (Plot summaries Web scraped from IMdb and other values from MovieLens Small dataset)
-5. Dialogflow ES
+5. Telegram App
 
 Chatbot Interaction:
 
 ![image](https://user-images.githubusercontent.com/129698277/230423141-441bcb48-b5b6-48c5-8fba-d3171e539666.png)
 
-Try our chatbot here: https://bot.dialogflow.com/14359829-8586-4701-9d1e-4a6db5662003
+Try our chatbot here: http://t.me/MovieRouletteBot
 
 ## Processes involved in movie recommendation:-
 
