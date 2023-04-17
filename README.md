@@ -14,11 +14,19 @@ A hybrid movie recommender chatbot for Telegram based on Python and Dialogflow w
 4. Movies dataset (Plot summaries Web scraped from IMdb and other values from MovieLens Small dataset)
 5. Telegram App
 
+## Execution Flow:
+
+1. Put app, recommendation.py and Movies v1.1 dataset in the same folder and run app.py using flask run in cmd.
+2. In a separate cmd window, run ngrok http 5000
+3. Copy and paste the ngrok tunnel URL in your Dialogflow's fulfillment URL.
+4. Now start asking questions to your chatbot and enjoy the movie recommendations.
+
 Chatbot Interaction:
 
 ![image](https://user-images.githubusercontent.com/129698277/230423141-441bcb48-b5b6-48c5-8fba-d3171e539666.png)
 
-Try our chatbot here: Click this link http://t.me/MovieRouletteBot and select START in Telegram App.
+Try our chatbot here: Click this link http://t.me/MovieRouletteBot and select START in Telegram App. 
+Once the chat window opens up, type /start to begin the conversation [Refer the screenshots on how to converse with the chatbot]
 
 ## Processes involved in movie recommendation:-
 
