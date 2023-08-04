@@ -42,5 +42,5 @@ Creating a list containing the top 25 movies sorted by their SVD output values i
 ## Preparation of Recommendation List:
 Finally, we sort the top 25 movie list with the similarity values obtained in descending order and condense them into a final list of 10 movies. This list will be recommended to the user as a chatbot response.
     
-Special thanks to Mr. Brain Fritz for maintaining the OMDB API which helped our dataset prepration.
+Special thanks to Mr. Brain Fritz for maintaining the OMDB API which helped in preparing our dataset.
 Check out: http://www.omdbapi.com/
